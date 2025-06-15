@@ -5,7 +5,7 @@ The 2022 Buffalo blizzard was a catastrophic winter storm that struck Buffalo, N
 
 This repository contains processed 311 request data, along with physical and social vulnerability variables, as well as previous 311 request behavior variables, for performing six different statistical and machine learning models. These models include the Spatial Lag Model (SLM), Spatial Error Model (SEM), Geographically Weighted Regression (GWR), Support Vector Machine (SVM), Random Forest (RF), and Geographical Random Forest (GRF). For more details, please refer to our full paper:
 
-<I>Zhou, R.Z., Hu, Y., Sun, K., Muldoon, R., Clark, S. and Joseph, K., 2025. Explainable GeoAI and statistical analysis reveal complementary insights about disparities of 311 help requests during the 2022 Buffalo blizzard. International Journal of Disaster Risk Reduction, p.105635.</I>  [[PDF]](https://github.com/ryan-zhenqi-zhou/ryan-zhenqi-zhou.github.io/blob/main/Manuscript_BuffaloBlizzard311.pdf)
+<I>Zhou, R.Z., Hu, Y., Sun, K., Muldoon, R., Clark, S. and Joseph, K., 2025. Explainable GeoAI and statistical analysis reveal complementary insights about disparities of 311 help requests during the 2022 Buffalo blizzard. International Journal of Disaster Risk Reduction, p.105635.</I>  [[PDF]](https://ryan-zhenqi-zhou.github.io/Manuscript_BuffaloBlizzard311.pdf)
 
 <br />
 
