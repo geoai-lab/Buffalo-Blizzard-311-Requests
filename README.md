@@ -22,3 +22,8 @@ Figure 1. An overview of the study design. (a) RQ1; (b) RQ2.
 
 ### Project dependencies
 * Python 3.12.3
+
+### Acknowledgement
+
+This work is supported by the U.S. National Science Foundation under Grant No. BCS-2416886. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+
